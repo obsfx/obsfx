@@ -1,16 +1,22 @@
-### Hi there 👋
+### Ömercan Balandı
 
-<!--
-**obsfx/obsfx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[obsfx.github.io](https://obsfx.github.io/)
 
-Here are some ideas to get you started:
+[balandiomer@gmail.com](mailto:balandiomer@gmail.com)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[linkedin.com/in/omercanbalandi/](https://www.linkedin.com/in/omercanbalandi/)
+
+[twitter.com/obsfx](https://twitter.com/obsfx)
+
+[github.com/obsfx](https://github.com/obsfx)
+
+[codepen.io/omercanbalandi](https://codepen.io/omercanbalandi)
+
+[obsfx.itch.io](https://obsfx.itch.io/)
+
+[ldjam.com/users/omercanbalandi/games](https://ldjam.com/users/omercanbalandi/games)
+
+
+— I'm 22 years old passionate developer who is studying *computer science* at *dokuz eylul university*.
+
+— I'm interested in *front-end development*. I am currently learning **React**. I enjoy creating stuff using ![JavaScript](https://raw.githubusercontent.com/obsfx/obsfx/main/js.jpg) **JavaScript**, ![TypeScript](https://raw.githubusercontent.com/obsfx/obsfx/main/ts.jpg) **TypeScript** and ![NodeJS](https://raw.githubusercontent.com/obsfx/obsfx/main/njs.jpg) **NodeJS**. I made some [*demos*](https://codepen.io/omercanbalandi/full/zYYGowP) that was picked as featured stuff and presented at the main page of [*codepen*](https://codepen.io/omercanbalandi). Beside of the front-end development, I really love creating [*simple games*](https://obsfx.itch.io/medieval-express) for [*game jams*](https://ldjam.com/users/omercanbalandi/games) and making convenient [*command-line tools*](https://github.com/obsfx/libgen-downloader) to make things more easier to me.
