@@ -23,4 +23,4 @@
 
 —— Beside of the front-end development, I really love creating [*simple games*](https://obsfx.itch.io/medieval-express) for [*game jams*](https://ldjam.com/users/omercanbalandi/games) and making convenient [*command-line tools*](https://github.com/obsfx/libgen-downloader) to make the things more easier to me.
 
-—— I love to use **Neovim**.
+—— I love using **Neovim**.
