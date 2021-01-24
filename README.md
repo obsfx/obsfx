@@ -1,21 +1,14 @@
-### Ömercan Balandı
+## Ömercan Balandı
 
-[obsfx.github.io](https://obsfx.github.io/)
-
-[balandiomer@gmail.com](mailto:balandiomer@gmail.com)
-
-[linkedin.com/in/omercanbalandi/](https://www.linkedin.com/in/omercanbalandi/)
-
-[twitter.com/obsfx](https://twitter.com/obsfx)
-
-[github.com/obsfx](https://github.com/obsfx)
-
-[codepen.io/obsfx](https://codepen.io/obsfx)
-
-[obsfx.itch.io](https://obsfx.itch.io/)
-
-[ldjam.com/users/omercanbalandi/games](https://ldjam.com/users/omercanbalandi/games)
-
+- [balandiomer@gmail.com](mailto:balandiomer@gmail.com)
+- [linkedin.com/in/omercanbalandi](https://www.linkedin.com/in/omercanbalandi/)
+- [github.com/obsfx](https://github.com/obsfx)
+- [npmjs.com/~obsfx](https://www.npmjs.com/~obsfx)
+- [codepen.io/obsfx](https://codepen.io/obsfx)
+- [obsfx.itch.io](https://obsfx.itch.io/)
+- [twitter.com/obsfx](https://twitter.com/obsfx)
+- [dev.to/obsfx](https://dev.to/obsfx)
+- [medium.com/@omercanbalandi](https://medium.com/@omercanbalandi)
 
 I'm 22 years old passionate developer who is studying *computer science* at *dokuz eylul university*.
 
