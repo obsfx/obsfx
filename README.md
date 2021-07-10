@@ -12,8 +12,8 @@
 
 I'm 23 years old passionate developer who is studying *computer science* at *dokuz eylul university*.
 
-I'm interested in *front-end development*. I can create web apps using **React** and **Vue**. I enjoy creating stuff using **JavaScript**, **TypeScript** and **NodeJS**. I made some [*demos*](https://codepen.io/obsfx/full/zYYGowP) that was picked as featured stuff and presented at the main page of [*codepen*](https://codepen.io/obsfx). 
+I'm interested in *front-end development*. I can create web apps using **React** and **Vue**. I enjoy creating stuff using **JavaScript**, **TypeScript** and **NodeJS**. I made some [*demos*](https://codepen.io/obsfx/full/zYYGowP) that were picked as featured stuff and presented on the main page of [*codepen*](https://codepen.io/obsfx). 
 
-Beside of the front-end development, I really love creating [*simple games*](https://obsfx.itch.io/medieval-express) for [*game jams*](https://ldjam.com/users/omercanbalandi/games) and making convenient [*command-line tools*](https://github.com/obsfx/libgen-downloader) to make the things more easier to me.
+Besides the front-end development, I love creating [*simple games*](https://obsfx.itch.io/medieval-express) for [*game jams*](https://ldjam.com/users/omercanbalandi/games) and making convenient [*command-line tools*](https://github.com/obsfx/libgen-downloader) to make things easier for me.
 
 I love using **Neovim**.
