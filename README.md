@@ -9,8 +9,8 @@
 - [twitter.com/obsfx](https://twitter.com/obsfx)
 - [dev.to/obsfx](https://dev.to/obsfx)
 - [medium.com/@omercanbalandi](https://medium.com/@omercanbalandi)
-
-I'm 23 years old passionate developer who is studying *computer science* at *dokuz eylul university*.
+- 
+A passionate **software developer** based in **Izmir, Turkey**.
 
 I'm interested in *front-end development*. I can create web apps using **React** and **Vue**. I enjoy creating stuff using **JavaScript**, **TypeScript** and **NodeJS**. I made some [*demos*](https://codepen.io/obsfx/full/zYYGowP) that were picked as featured stuff and presented on the main page of [*codepen*](https://codepen.io/obsfx). 
 
