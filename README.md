@@ -14,6 +14,6 @@ A passionate **software developer** based in **Izmir, Turkey**.
 
 I'm interested in *full stack web development*. I can create web apps using **React** and **Vue**. I enjoy creating stuff using **JavaScript**, **TypeScript** and **NodeJS**. I made some [*demos*](https://codepen.io/obsfx/full/zYYGowP) that were picked as featured stuff and presented on the main page of [*codepen*](https://codepen.io/obsfx). 
 
-Besides the front-end development, I love creating [*simple games*](https://obsfx.itch.io/medieval-express) for [*game jams*](https://ldjam.com/users/omercanbalandi/games) and making convenient [*command-line tools*](https://github.com/obsfx/libgen-downloader) to make things easier for me.
+Besides the web development, I love creating [*simple games*](https://obsfx.itch.io/medieval-express) for [*game jams*](https://ldjam.com/users/omercanbalandi/games) and making convenient [*command-line tools*](https://github.com/obsfx/libgen-downloader) to make things easier for me.
 
 I love using **Neovim**.
