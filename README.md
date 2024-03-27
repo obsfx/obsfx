@@ -1,6 +1,6 @@
 ## Ömercan Balandı
 
-- [balandiomer@gmail.com](mailto:balandiomer@gmail.com)
+- [hello@omercan.io](mailto:hello@omercan.io)
 - [linkedin.com/in/omercanbalandi](https://www.linkedin.com/in/omercanbalandi/)
 - [github.com/obsfx](https://github.com/obsfx)
 - [npmjs.com/~obsfx](https://www.npmjs.com/~obsfx)
